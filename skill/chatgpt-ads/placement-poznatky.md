@@ -25,25 +25,25 @@
 | Placement.cz · agentura | 32 012 Kč | 0,86 % | 29,37 Kč | 5 konverzí |
 
 **Pozorování:** nejvyšší CTR a nejlevnější klik měly účty s konkrétním produktem nebo službou
-(kuchyně na míru, vyvýšené záhony), nejnižší B2B služby. Domněnka k B2B: reklamy vidí jen
+(kuchyně na míru, záhony), nejnižší B2B služby. Domněnka k B2B: reklamy vidí jen
 uživatelé plánů Free a Go (dokumentace OpenAI), rozhodovatelé ve firmách často používají placené plány.
 
 ## 2. Kontextové fráze (context hints)
 
 | Zjištění | Data |
 |---|---|
-| **Nákupní dotazy fungovaly nejlíp** | Klient C, fráze typu „najdi mi vyvýšený záhon“, „kde koupit dřevěný vyvýšený záhon“, „doporuč mi vyvýšený záhon na zeleninu“ (30 frází): 67 299 zobrazení, CTR 4,64 %, klik 4,05 Kč. Nejlepší velká sestava e-shopů. |
+| **Nákupní dotazy fungovaly nejlíp** | Klient C, fráze typu „najdi mi záhon“, „kde koupit záhon“, „doporuč mi záhon na zeleninu“ (30 frází): 67 299 zobrazení, CTR 4,64 %, klik 4,05 Kč. Nejlepší velká sestava e-shopů. |
 | **Krátké klíčovky > dlouhé situace a popisy** | Stejné reklamy, jiné fráze. Klient B (bundy): klíčovky 12 072 zobrazení, CTR 3,25 % vs. situace 5 664, CTR 2,56 %. Klient E: 2,31 % vs. 1,85 %. Dlouhé věty platforma páruje skoupěji. |
 | **Otázky vs. klíčovky: nerozhodnuto** | Království zdraví, hořčík, stejná reklama: 17.–23. 9. otázky 1 901 zobrazení / klíčovky 0, 24.–29. 9. otázky 435 / klíčovky 2 337. Doručování se mezi sestavami přelévá po dnech. Test hodnoťte po 3–4 týdnech, nikdy z jednoho týdne. |
 | **Úzké > široké** | Placement.cz: 8 konkrétních situací („hledám PPC agenturu pro e-shop“) CTR 0,92 %, klik 1,00 € vs. 36 témat („Google Ads“, „PPC reklama“) CTR 0,74 %, klik 1,54 €. Fráze „Google Ads“ znamená kohokoli, kdo s ChatGPT řeší Google Ads, ne toho, kdo hledá agenturu. |
-| **Poradenské dotazy: levné, ale skoro bez zobrazení** | Klient C, „jak založit vyvýšený záhon“, „čím ho naplnit“ (9 sestav, strop 2 Kč): za 17 dní 743 zobrazení, CTR 6,06 %, klik 1,88 Kč, 1 nákup. Poradenské sestavy měly i nižší strop, takže nevíme, co z toho omezilo zobrazení. |
+| **Poradenské dotazy: levné, ale skoro bez zobrazení** | Klient C, „jak založit záhon“, „čím ho naplnit“ (9 sestav, strop 2 Kč): za 17 dní 743 zobrazení, CTR 6,06 %, klik 1,88 Kč, 1 nákup. Poradenské sestavy měly i nižší strop, takže nevíme, co z toho omezilo zobrazení. |
 | **Bez reportu dotazů a bez vylučování** | Nevidíte, na jakou konverzaci se reklama ukázala. Jediná páka na relevanci je, jak úzce situaci popíšete. Jedna sestava = jeden záměr. |
 
 ## 3. Texty reklam
 
 | Zjištění | Data |
 |---|---|
-| **Titulek, který zní jako doporučení** | Klient C, stejný text „Postavíte za jedno odpoledne“: „Doporučujeme tento záhon“ CTR 5,10 % (38 993 zobrazení, klik 3,65 Kč) vs. „Vyvýšené záhony“ 4,57 %. „Dřevěný záhon / Masiv, návod v balení“ 1,55 %, klik 11,41 Kč. |
+| **Titulek, který zní jako doporučení** | Klient C, stejný text „Postavíte za jedno odpoledne“: „Doporučujeme tento záhon“ CTR 5,10 % (38 993 zobrazení, klik 3,65 Kč) vs. „Záhony“ 4,57 %. „[materiál] záhon / [materiál], návod v balení“ 1,55 %, klik 11,41 Kč. |
 | **Vlastnost produktu > „od výrobce“** | Klient B, stejná sestava: „Membránové bundy“ 3,88 % vs. „Bundy od výrobce“ 0,83 % (klik 5,04 vs. 20,09 Kč). „Od výrobce“ prohrálo u bund, mikin i obuvi, vyhrálo jen u kalhot (4,05 % vs. 3,61 %). |
 | **Konkrétní výhoda > cena a sleva** | Klient A: „Kuchyň na míru / 3D návrh zdarma. …“ 5,02 %. Klient D: „Smart hodinky česky / Volání z ruky, kompletně česky.“ 3,30 % vs. „Chytré hodinky / … Skladem od … Kč.“ 2,59 %. Agentura (webináře): sleva „1 990 Kč místo 2 770 Kč“ 0,46 %, „Webinář PPC za 990 Kč“ 0 kliků ze 164 zobrazení. |
 | **Stejné pořadí ve dvou zemích** | Placement.cz CZ i SK: „Umíme reklamu v ChatGPT? / Právě se na ni díváte.“ 0,98 % a 1,01 % > „Vy tu ještě neinzerujete?“ 0,69 % a 0,76 % > „Jsme tady dřív než většina“ 0,66 % a 0,65 %. |
