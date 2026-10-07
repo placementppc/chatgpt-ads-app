@@ -1,0 +1,12 @@
+.env
+.env.bak
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.usage/
+.DS_Store
+*.preview.html
+# interní nálezy z provozu (čísla z konkrétních účtů) — nikdy do repa
+docs/nalezy-z-provozu-*.md
