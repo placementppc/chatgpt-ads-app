@@ -12,6 +12,8 @@ Novinky sleduj přes **Watch → Custom → Releases** na GitHubu, changelog je 
 >   a ruční testovací feed, když produkty neprojdou schválením. Skill `/chatgpt-ads` si soubor čte sám.
 > - **[`scripts/utm_check.py`](scripts/utm_check.py)**: kontrola UTM před spuštěním
 >   (`python3 scripts/utm_check.py --account <name>`, exit ≠ 0 = nespouštět).
+> - **[Pixel do Google Tag Manageru pomocí AI](docs/gtm-pixel-pres-ai.md)**: zadání pro Claude, vzor tagu
+>   s číslem objednávky (bez duplicitních nákupů) a kontrola, že pixel posílá do správného účtu.
 
 > ✅ **Stav:** čtení i zápisy (kampaň, sestavy, reklamy, upload, preview) ověřené v ostrém provozu na self-serve účtu (2026-09-02). Co zbývá ověřit: [docs/api-notes.md → Neověřeno živě](docs/api-notes.md). Dry-run (bez `--confirm`) nic neposílá.
 
