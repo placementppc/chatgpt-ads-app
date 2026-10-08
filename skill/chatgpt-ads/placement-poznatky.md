@@ -115,10 +115,11 @@ se to s podporou OpenAI. Rychlý způsob, jak tyhle dvě příčiny oddělit.
 
 ## 7. Účet a provoz
 
-- **Osobní účet nestačí.** Hláška „You don't have permission to create ad accounts in your tenant“.
-  Fungovalo: kolega s firemním e-mailem účet založil a pozval správce kampaní.
-- **Web účtu = doména, kam vedou reklamy.** Reklamy na subdoménu jinak čekaly na prověření domény
-  (HTTP 425 při aktivaci) přes 2 hodiny. Po změně URL účtu na subdoménu okamžitě prošly.
+- **Účet jde založit i na osobní Gmail.** Jednou nám zakládání skončilo hláškou „You don't have permission
+  to create ad accounts in your tenant“, pomohlo pozvání z jiného účtu. Proč, nevíme; jindy osobní Gmail prošel.
+- **Reklamy na jinou doménu čekají na prověření.** Když reklama vede jinam než na web účtu (i na subdoménu),
+  OpenAI doménu nejdřív prověří (HTTP 425 při aktivaci). U nás přes 2 hodiny; po přepnutí webu účtu na tu doménu
+  hned prošly. Samostatný účet pro subdoménu nutný není, reklamy na subdoménu běžely i z účtu hlavní domény.
 - **Názvy účtu nejsou kosmetika.** Změna názvu značky pozastaví doručování do schválení, změna právního
   názvu spustí nové ověření firmy.
 - **API klíč patří na `api.ads.openai.com`.** Vypadá jako běžný klíč OpenAI; proti `api.openai.com`
